@@ -1,5 +1,4 @@
 /* 
-
 ---Primitive 
 
 7 types :
@@ -8,7 +7,6 @@
 
 
 ---Reference (NOn Primitive)
-
 type: 
      Array, objects , Functions 
 
@@ -39,4 +37,4 @@ const myfinction = function() {
 
 }
 
-console.log(typeof heros)
+console.log(typeof obj)
