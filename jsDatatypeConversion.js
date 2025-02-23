@@ -67,6 +67,7 @@
 //  console.log(true)  // true 
 //  console.log(+true)  // 1 
 //  console.log(+"")  // 0 (bcox is false ) 
+//  console.log(+"")  // 0 (bcox empty string is  false ) 
 //  console.log("")  // 0 (bcox is false ) 
 
 // let no = 1;
