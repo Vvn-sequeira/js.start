@@ -1,1 +1,1 @@
-console.log("vivian marcel sequeira");
+console.log("vivian marcel seqeira ");
