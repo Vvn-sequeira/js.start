@@ -36,5 +36,6 @@ let NEwdate = new Date()
 
  console.log( NEwdate.toLocaleString('default' , {
     weekday : "short"
+    weekday : "short" // tue 
 
 }) )
